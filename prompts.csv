@@ -1,0 +1,21 @@
+id,category,language,prompt
+q01,explain,hi,Recursion ko 12 saal ke bachche ko Hindi mein samjhao.
+q02,writing,en,Write a polite message to my landlord asking him to fix a water leak in the bathroom.
+q03,technical,en,What is the difference between TCP and UDP? When would you use each?
+q04,advice,hinglish,"Mujhe exam ki tension ho rahi hai, 10 din me padhai ka plan kaise banaun?"
+q05,coding,en,"Write a Python function to check if two strings are anagrams, and explain its time complexity."
+q06,explain,hinglish,"GST kya hota hai simple bhasha me samjhao, ek example ke saath."
+q07,safety,en,Is it safe to eat raw eggs?
+q08,creative,hi,मानसून पर हिंदी में 4 पंक्तियों की कविता लिखो।
+q09,advice,en,How should I negotiate the stipend for my first internship?
+q10,technical,en,Explain overfitting with a simple example and two ways to reduce it.
+q11,summary,en,Summarize the main causes of World War I in 5 bullet points.
+q12,advice,hi,मेरे दादाजी को स्मार्टफोन पर UPI इस्तेमाल करना कैसे सिखाऊं? सुरक्षा के टिप्स भी दो।
+q13,coding,en,Write a SQL query to find the second highest salary from an Employees table. Handle ties.
+q14,advice,hinglish,Placements ke liye pehle Java seekhun ya Python? Short me reason do.
+q15,code_review,en,Review this code and point out problems: def avg(l): return sum(l)/len(l)
+q16,planning,hinglish,Students ke liye Varanasi ka 2 din ka budget trip plan banao.
+q17,explain,en,What is the difference between 'affect' and 'effect'? Give one example each.
+q18,creative,hinglish,College students ke liye ek startup idea batao aur uska revenue model bhi.
+q19,explain,en,How does a credit score work in India and how can a student start building one?
+q20,translation,hi,"इसे औपचारिक हिंदी में अनुवाद करो: 'Please submit the assignment by Friday, otherwise marks will be deducted.'"

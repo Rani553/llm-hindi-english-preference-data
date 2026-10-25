@@ -1,0 +1,4 @@
+google-genai
+groq
+pandas
+tabulate
